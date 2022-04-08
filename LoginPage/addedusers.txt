@@ -1,0 +1,6 @@
+3 added users, 
+admin, adminpw
+user1, pass1
+random, 12345
+
+Also shows table of users dynamically
